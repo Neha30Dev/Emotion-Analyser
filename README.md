@@ -60,4 +60,6 @@ cd emotion-analyser-chatbot
 
 ### 2. Install requirements
 
+```bash
 pip install pandas scikit-learn gradio joblib
+```
